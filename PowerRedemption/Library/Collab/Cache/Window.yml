@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffe70aba2e7074048aca5de573b64a59, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  SimpleSelectedItems:
+    m_Keys:
+    - Assets/Art.meta
+    - Assets/Art/Animations.meta
+    - Assets/Art/Animations/Attack.anim
+    - Assets/Art/Animations/Attack.anim.meta
+    - Assets/Art/Animations/Idle.anim
+    - Assets/Art/Animations/Idle.anim.meta
+    - Assets/Art/Animations/JumpFall.anim
+    - Assets/Art/Animations/JumpFall.anim.meta
+    - Assets/Art/Animations/JumpLand.anim
+    - Assets/Art/Animations/JumpLand.anim.meta
+    - Assets/Art/Animations/JumpStart.anim
+    - Assets/Art/Animations/JumpStart.anim.meta
+    - Assets/Art/Animations/JumpTop.anim
+    - Assets/Art/Animations/JumpTop.anim.meta
+    - Assets/Art/Animations/LongIdleLoop.anim
+    - Assets/Art/Animations/LongIdleLoop.anim.meta
+    - Assets/Art/Animations/LongIdleStart.anim
+    - Assets/Art/Animations/LongIdleStart.anim.meta
+    - Assets/Art/Animations/PlayerAnimator.controller
+    - Assets/Art/Animations/PlayerAnimator.controller.meta
+    - Assets/Art/Animations/Run.anim
+    - Assets/Art/Animations/Run.anim.meta
+    - Assets/Art/Sprites.meta
+    - Assets/Art/Sprites/Player_FINAL_64x64px_MuchoPixels.png
+    - Assets/Art/Sprites/Player_FINAL_64x64px_MuchoPixels.png.meta
+    - Assets/Art/Sprites/skelly.png
+    - Assets/Art/Sprites/skelly.png.meta
+    - Assets/Art/UI.meta
+    - Assets/Art/UI/Bar.png
+    - Assets/Art/UI/Bar.png.meta
+    - Assets/Art/UI/Heart.png
+    - Assets/Art/UI/Heart.png.meta
+    - Assets/Prefabs.meta
+    - Assets/Prefabs/------CONFIG-------.prefab
+    - Assets/Prefabs/------CONFIG-------.prefab.meta
+    - Assets/Prefabs/----GAMEPLAY----.prefab
+    - Assets/Prefabs/----GAMEPLAY----.prefab.meta
+    - Assets/Prefabs/---ENVIRONMENT---.prefab
+    - Assets/Prefabs/---ENVIRONMENT---.prefab.meta
+    - Assets/Scenes/SampleScene.unity
+    - Assets/Scripts/Input.meta
+    - Assets/Scripts/Input/PlayerActions.inputactions
+    - Assets/Scripts/Input/PlayerActions.inputactions.meta
+    - Assets/Scripts/Player.meta
+    - Assets/Scripts/Player/AttackPointController.cs
+    - Assets/Scripts/Player/AttackPointController.cs.meta
+    - Assets/Scripts/Player/Inputs.cs
+    - Assets/Scripts/Player/Inputs.cs.meta
+    - Assets/Scripts/Player/Movement.cs
+    - Assets/Scripts/Player/Movement.cs.meta
+    - Assets/Scripts/Player/Player.cs
+    - Assets/Scripts/Player/Player.cs.meta
+    - Assets/Scripts/Player/PlayerAnimation.cs
+    - Assets/Scripts/Player/PlayerAnimation.cs.meta
+    - Assets/Scripts/Player/PlayerCombat.cs
+    - Assets/Scripts/Player/PlayerCombat.cs.meta
+    - Assets/Scripts/Player/PlayerController.cs
+    - Assets/Scripts/Player/PlayerController.cs.meta
+    - Assets/Scripts/Player/PlayerJump.cs
+    - Assets/Scripts/Player/PlayerJump.cs.meta
+    - Assets/Scripts/Player/PlayerRenderer.cs
+    - Assets/Scripts/Player/PlayerRenderer.cs.meta
+    - Assets/Scripts/Player/PlayerStats.cs
+    - Assets/Scripts/Player/PlayerStats.cs.meta
+    - Assets/Scripts/UI.meta
+    - Assets/Scripts/UI/HealthBar.cs
+    - Assets/Scripts/UI/HealthBar.cs.meta
+    - Assets/Scrpts.meta
+    - Assets/Scrpts/Combat/Attack.cs.meta
+    - Assets/Scrpts/Combat/Enemy.cs
+    - Assets/Scrpts/Combat/Entity.cs
+    - Assets/Scrpts/Combat/PlayerAttack.cs
+    - Assets/UI.meta
+    - Packages/manifest.json
+    - Packages/packages-lock.json
+    - ProjectSettings/ProjectSettings.asset
+    - ProjectSettings/TagManager.asset
+    - 
+    m_Values: 010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101010101
+  RevisionSummary: 
+  ChangesSearchValue: 
+  SelectedHistoryRevision: 
+  HistoryPageNumber: 0
+  TabIndex: 0
